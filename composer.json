@@ -1,0 +1,13 @@
+{
+    "name": "zealnonces/zeal",
+    "description": "This package create CSRF field for Wordpress",
+    "type": "MIT",
+    "authors": [
+        {
+            "name": "zeal",
+            "email": "zeal@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
